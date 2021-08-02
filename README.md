@@ -1,4 +1,4 @@
-## Eai beleza?? Me chamo Daniel Dantas 🤙
+## Eai beleza?? Me chamo Daniel Dantas✌️
  <div>
   <a href="https://github.com/DanieldDantas">
    <img align="right alt="dsdsa" src="https://cdn.discordapp.com/attachments/850369514738155524/871580873160552509/e1d0d5710beb508585e4606d828dde7f0081a5aa_00.gif">
