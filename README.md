@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanieldDantas&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="right" alt="" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.deviantart.com%2Fjeanx-hedgehog%2Fart%2FSonic-Mania-Title-Intro-GIF-Shortened-Version-712111553&psig=AOvVaw3FJVLnwhfhD9V-bbI0ge_2&ust=1627956673008000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCKjnhqyhkfICFQAAAAAdAAAAABAE">
+  <img align="right" alt="" src="https://discord.com/channels/850369514738155522/850369514738155524/871580873701621810">
 </div>
   
   ##
