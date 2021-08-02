@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanieldDantas&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="right" alt="" src="https://discord.com/channels/850369514738155522/850369514738155524/871580873701621810">
+  <img align="right" alt="" src="https://cdn.discordapp.com/attachments/850369514738155524/871580873160552509/e1d0d5710beb508585e4606d828dde7f0081a5aa_00.gif">
 </div>
   
   ##
