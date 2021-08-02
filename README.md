@@ -4,7 +4,7 @@
    <img align="right alt="dsdsa" src="https://cdn.discordapp.com/attachments/850369514738155524/871580873160552509/e1d0d5710beb508585e4606d828dde7f0081a5aa_00.gif">
 </div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanieldDantas&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanieldDantas&layout=compact&langs_count=7&theme=algolia"/>
+  <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanieldDantas&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 <div style="display: inline_block"><br>
   
