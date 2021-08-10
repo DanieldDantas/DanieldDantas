@@ -1,4 +1,4 @@
-## Eai beleza?? Me chamo Daniel Dantas✌️
+## Daniel Dantas✌️
  <div>
   <a href="https://github.com/DanieldDantas">
 </div>
