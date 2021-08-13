@@ -11,9 +11,8 @@
  
 ## 📚 Estou estudando:
  
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/850369514738155524/871580873160552509/e1d0d5710beb508585e4606d828dde7f0081a5aa_00.gif">
+  <img height="180em"align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/850369514738155524/875750831943712768/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f66352f35622f30662f66353562306633653064.gif">
 </div>
   
   
