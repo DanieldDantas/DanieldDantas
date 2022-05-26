@@ -10,7 +10,7 @@
  
 ## 📚 Estou estudando:
  
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://www.pngegg.com/pt/png-yjemi">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   
 </div>
   
