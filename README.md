@@ -11,7 +11,7 @@
 ## 📚 Estou estudando:
  
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_jar.svg">
-  <img height="180em"align="right" alt="Rafa-yoda" 
+  
 </div>
   
   
