@@ -10,7 +10,7 @@
  
 ## 📚 Estou estudando:
  
-  <img align="center" alt="Daniel-Java" height="30" width="40" src="img src="img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Daniel-Java" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   
 </div>
   
