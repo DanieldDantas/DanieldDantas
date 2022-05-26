@@ -10,7 +10,7 @@
  
 ## 📚 Estou estudando:
  
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_js_official.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_jar.svg">
   <img height="180em"align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/850369514738155524/875750831943712768/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f66352f35622f30662f66353562306633653064.gif">
 </div>
   
